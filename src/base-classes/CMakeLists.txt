@@ -1,1 +1,1 @@
-add_library(base-classes TypWord.cpp)
+add_library(base-classes TypWord.cpp TypLine.cpp)

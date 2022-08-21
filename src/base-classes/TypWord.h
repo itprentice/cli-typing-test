@@ -1,5 +1,5 @@
-#ifndef TypWORD_H
-#define TypWORD_H
+#ifndef TYPWORD_H
+#define TYPWORD_H
 #include <string>
 
 class TypWord{

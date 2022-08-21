@@ -1,0 +1,10 @@
+^C:\USERS\ITPRE\DOCUMENTS\GITHUB\CLI-TYPING-TEST\CMAKEFILES\E1A061F6AAE4C822BBD4B0A282320F3C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/itpre/Documents/GitHub/cli-typing-test -BC:/Users/itpre/Documents/GitHub/cli-typing-test --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/itpre/Documents/GitHub/cli-typing-test/typetest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

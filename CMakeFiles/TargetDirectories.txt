@@ -1,4 +1,0 @@
-C:/Users/itpre/Documents/GitHub/cli-typing-test/CMakeFiles/typetest.dir
-C:/Users/itpre/Documents/GitHub/cli-typing-test/CMakeFiles/ALL_BUILD.dir
-C:/Users/itpre/Documents/GitHub/cli-typing-test/CMakeFiles/ZERO_CHECK.dir
-C:/Users/itpre/Documents/GitHub/cli-typing-test/base-classes/CMakeFiles/base-classes.dir

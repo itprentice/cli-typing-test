@@ -1,1 +1,0 @@
-target_sources(typetest PUBLIC TypMain.cpp)

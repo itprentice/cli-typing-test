@@ -1,0 +1,1 @@
+add_library(base-classes TypWord.cpp)
